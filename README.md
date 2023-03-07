@@ -1,5 +1,6 @@
 # CS50_AI_Degrees
 **Degrees of separation**
+
 Search program that determines how many “degrees of separation” apart two actors are.
 
 According to the Six Degrees of Kevin Bacon game, anyone in the Hollywood film industry 
